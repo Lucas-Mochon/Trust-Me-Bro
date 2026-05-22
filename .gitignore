@@ -109,3 +109,12 @@ InitTestScene*.unity*
 # Claude Code & design docs
 CLAUDE.md
 designer.md
+
+# IDE & tools
+.claude/
+.idea/
+*.slnx
+
+# Screenshots
+Assets/Screenshots/
+Assets/Screenshots.meta
